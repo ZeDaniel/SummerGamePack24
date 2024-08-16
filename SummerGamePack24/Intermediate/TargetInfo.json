@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SummerGamePack24",
+			"Path": "..\\Source\\SummerGamePack24.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SummerGamePack24Editor",
+			"Path": "..\\Source\\SummerGamePack24Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

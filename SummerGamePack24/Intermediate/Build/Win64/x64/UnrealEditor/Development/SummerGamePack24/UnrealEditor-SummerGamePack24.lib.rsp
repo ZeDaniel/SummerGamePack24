@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SummerGamePack24.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\SummerGamePack24Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\SGP24GameMode.gen.cpp.obj"
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\SummerGamePack24.init.gen.cpp.obj"
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\SGP24GameMode.cpp.obj"
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\SummerGamePack24.cpp.obj"
+"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\Default.rc2.res"
+/OUT:"C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\Win64\x64\UnrealEditor\Development\SummerGamePack24\UnrealEditor-SummerGamePack24.lib"
