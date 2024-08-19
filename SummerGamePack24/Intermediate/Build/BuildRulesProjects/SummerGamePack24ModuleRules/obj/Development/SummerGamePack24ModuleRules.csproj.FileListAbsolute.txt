@@ -38,6 +38,7 @@ C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermedi
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGamePack24ModuleRules.AssemblyInfoInputs.cache
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGamePack24ModuleRules.AssemblyInfo.cs
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGamePack24ModuleRules.csproj.CoreCompileInputs.cache
+C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGamePack24ModuleRules.sourcelink.json
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGa.908E27A2.Up2Date
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\SummerGamePack24ModuleRules.dll
 C:\Game Dev\Unreal Engine 5 Projects\SummerGamePack24\SummerGamePack24\Intermediate\Build\BuildRulesProjects\SummerGamePack24ModuleRules\obj\Development\refint\SummerGamePack24ModuleRules.dll
