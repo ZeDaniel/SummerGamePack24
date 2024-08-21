@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/SumGamePack/GameMode/BP_SGP24GameInstance.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/Blueprints/GameMode/BP_BallemGameMode.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/Widgets/BP_PauseWidget.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/Widgets/Ballem_BP_PauseWidget.uasset"
+			]
+		}
+	]
+}

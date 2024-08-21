@@ -30,6 +30,18 @@
     <Filter Include="Source\SummerGamePack24">
       <UniqueIdentifier>{306A4672-2ECA-3C5D-8C68-34D14531D3EC}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SummerGamePack24\BasePawn.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\BasePawn.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\PlayerPawn.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\PlayerPawn.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\SGP24GameMode.cpp">
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
@@ -44,6 +56,60 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\SummerGamePack24.h">
       <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <Filter Include="Source\SummerGamePack24\Private">
+      <UniqueIdentifier>{2F28D3D5-715D-336D-83AA-64C7F7DB6F94}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\BallemGameMode.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\BallemPlayerController.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\GoalBasket.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\LemBall.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\Path.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\PathManager.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\SummerGamePack24\Private\PathManager.old">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\SplineManager.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SummerGamePack24\Public">
+      <UniqueIdentifier>{2F77E974-3518-35B4-AC8A-97B60255D451}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\BallemGameMode.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\BallemPlayerController.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\GoalBasket.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\LemBall.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\Path.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\PathManager.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SummerGamePack24\Public\PathManager.old">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\SplineManager.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
