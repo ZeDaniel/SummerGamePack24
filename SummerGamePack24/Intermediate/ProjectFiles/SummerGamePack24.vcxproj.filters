@@ -66,6 +66,9 @@
     <ClCompile Include="..\..\Source\SummerGamePack24\Private\BallemPlayerController.cpp">
       <Filter>Source\SummerGamePack24\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\CameraPawn.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SummerGamePack24\Private\GoalBasket.cpp">
       <Filter>Source\SummerGamePack24\Private</Filter>
     </ClCompile>
@@ -81,7 +84,19 @@
     <None Include="..\..\Source\SummerGamePack24\Private\PathManager.old">
       <Filter>Source\SummerGamePack24\Private</Filter>
     </None>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\PunchSpawner.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\ScalableSprite.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SummerGamePack24\Private\SplineManager.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\ThePunchGameMode.cpp">
+      <Filter>Source\SummerGamePack24\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Private\ThePunchPlayerController.cpp">
       <Filter>Source\SummerGamePack24\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SummerGamePack24\Public">
@@ -93,10 +108,16 @@
     <ClInclude Include="..\..\Source\SummerGamePack24\Public\BallemPlayerController.h">
       <Filter>Source\SummerGamePack24\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\CameraPawn.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\SummerGamePack24\Public\GoalBasket.h">
       <Filter>Source\SummerGamePack24\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\SummerGamePack24\Public\LemBall.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\MovableSprite.h">
       <Filter>Source\SummerGamePack24\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\SummerGamePack24\Public\Path.h">
@@ -108,7 +129,19 @@
     <None Include="..\..\Source\SummerGamePack24\Public\PathManager.old">
       <Filter>Source\SummerGamePack24\Public</Filter>
     </None>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\PunchSpawner.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\ScalableSprite.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\SummerGamePack24\Public\SplineManager.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\ThePunchGameMode.h">
+      <Filter>Source\SummerGamePack24\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Public\ThePunchPlayerController.h">
       <Filter>Source\SummerGamePack24\Public</Filter>
     </ClInclude>
   </ItemGroup>
