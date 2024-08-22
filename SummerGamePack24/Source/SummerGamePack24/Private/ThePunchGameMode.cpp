@@ -18,7 +18,8 @@ void AThePunchGameMode::CallTransitionPhaseManually()
 void AThePunchGameMode::QuitGame()
 {
 	UE_LOG(LogTemp, Display, TEXT("Quit action called"));
-	UKismetSystemLibrary::QuitGame(GetWorld(), PlayerController, EQuitPreference::Quit, false);
+	//UKismetSystemLibrary::QuitGame(GetWorld(), PlayerController, EQuitPreference::Quit, false);
+	UGameplayStatics::OpenLevel(GetWorld(), TEXT("SumGamePack_HubWorld"));
 }
 
 void AThePunchGameMode::BeginPlay()
