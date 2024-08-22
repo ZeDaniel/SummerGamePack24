@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\private\\thepunchgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\x64\\summergamepack24editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\summergamepack24\\definitions.summergamepack24.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\public\\thepunchgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\thepunchgamemode.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\public\\camerapawn.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\camerapawn.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\public\\scalablesprite.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\scalablesprite.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\public\\thepunchplayercontroller.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\thepunchplayercontroller.generated.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\public\\punchspawner.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\punchspawner.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
