@@ -19,7 +19,7 @@ bool UItemComponent::AttachItem(ASafetyCharacter* TargetCharacter)
 
 	// Attach the item to the First Person Character
 	FAttachmentTransformRules AttachmentRules(EAttachmentRule::SnapToTarget, true);
-	AttachToComponent(Character->GetMesh1P(), AttachmentRules, FName(TEXT("GripPoint")));
+	AttachToComponent(Character->GetMesh1P(), AttachmentRules, FName(TEXT("PaperGripPoint")));
 
 	// add the item as an instance component to the character
 	Character->AddInstanceComponent(this);

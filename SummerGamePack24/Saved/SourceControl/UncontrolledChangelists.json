@@ -234,7 +234,12 @@
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPerson/Blueprints/BP_Safety_FPProjectile.uasset",
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FirstPerson_AnimBP.uasset",
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
-				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/__ExternalActors__/Maps/Safety_Level01/6/CC/EK1DA9R6MNHOA1UMLYUYUH.uasset"
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/__ExternalActors__/Maps/Safety_Level01/6/CC/EK1DA9R6MNHOA1UMLYUYUH.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Idle.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Run.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Jump.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Land.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Falling.uasset"
 			]
 		}
 	]

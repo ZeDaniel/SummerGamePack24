@@ -32,7 +32,6 @@
 			"BasePawn.cpp.obj",
 			"HeldItemDestructionField.cpp.obj",
 			"InteractableComponent.cpp.obj",
-			"ItemComponent.cpp.obj",
 			"ItemDestructionField.cpp.obj",
 			"PickUpComponent.cpp.obj",
 			"PlayerPawn.cpp.obj",
@@ -55,7 +54,8 @@
 			"Safety_TP_PickUpComponent.cpp.obj",
 			"Safety_TP_WeaponComponent.cpp.obj",
 			"SGP24GameMode.cpp.obj",
-			"SummerGamePack24.cpp.obj"
+			"SummerGamePack24.cpp.obj",
+			"ItemComponent.cpp.obj"
 		]
 	}
 }

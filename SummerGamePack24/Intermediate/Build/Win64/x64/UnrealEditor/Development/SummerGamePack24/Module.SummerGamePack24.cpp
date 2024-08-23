@@ -29,7 +29,6 @@
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/BasePawn.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/HeldItemDestructionField.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/InteractableComponent.cpp"
-#include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/ItemComponent.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/ItemDestructionField.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/PickUpComponent.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/PlayerPawn.cpp"
