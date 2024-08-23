@@ -239,7 +239,11 @@
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Run.uasset",
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Jump.uasset",
 				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Land.uasset",
-				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Falling.uasset"
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPersonArms/Animations/SafetyAnimations/Safety_FP_Paper_Falling.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPerson/Blueprints/Widgets/BP_PauseWidget.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPerson/Blueprints/BP_ContinueButton.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/FirstPerson/Blueprints/Widgets/BP_QuitWidget.uasset",
+				"C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Content/__ExternalActors__/Maps/Safety_Level01/E/OX/IKEIMM1FGTERCO20B3P43F.uasset"
 			]
 		}
 	]
