@@ -269,10 +269,54 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\BasePawn.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\InteractableComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\InteractableComponent.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ItemComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ItemComponent.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ItemDestructionField.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ItemDestructionField.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\PickUpComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\PickUpComponent.h"/>
     <ClCompile Include="..\..\Source\SummerGamePack24\PlayerPawn.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\PlayerPawn.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyCharacter.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyGameMode.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyGameMode.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyPlayerController.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyPlayerController.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyProjectile.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyProjectile.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Safety_TP_PickUpComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Safety_TP_PickUpComponent.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Safety_TP_WeaponComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Safety_TP_WeaponComponent.h"/>
     <ClCompile Include="..\..\Source\SummerGamePack24\SGP24GameMode.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

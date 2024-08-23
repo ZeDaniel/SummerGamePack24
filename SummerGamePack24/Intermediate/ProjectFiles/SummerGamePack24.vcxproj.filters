@@ -36,10 +36,76 @@
     <ClInclude Include="..\..\Source\SummerGamePack24\BasePawn.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\InteractableComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\InteractableComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ItemComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ItemComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ItemDestructionField.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ItemDestructionField.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\PickUpComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\PickUpComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\PlayerPawn.cpp">
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\PlayerPawn.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyCharacter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyCharacter.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyGameMode.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyGameMode.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyPlayerController.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyPlayerController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\SafetyProjectile.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\SafetyProjectile.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Safety_TP_PickUpComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Safety_TP_PickUpComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Safety_TP_WeaponComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Safety_TP_WeaponComponent.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\SGP24GameMode.cpp">

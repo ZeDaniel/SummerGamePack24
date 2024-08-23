@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\safetyprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\x64\\summergamepack24editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\summergamepack24\\definitions.summergamepack24.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\source\\summergamepack24\\safetyprojectile.h",
+            "c:\\game dev\\unreal engine 5 projects\\summergamepack24\\summergamepack24\\intermediate\\build\\win64\\unrealeditor\\inc\\summergamepack24\\uht\\safetyprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
