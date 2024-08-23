@@ -8,7 +8,7 @@ ASafetyGameMode::ASafetyGameMode()
 	: Super()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter"));
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/Sub-Games/04_Safety/Blueprints/BP_SafetyCharacter"));
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 }

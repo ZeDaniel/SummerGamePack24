@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/SummerGamePack24/Saved/Cooked
+/SummerGamePack24/Saved/Temp
+/SummerGamePack24/Saved/Shaders
+/SummerGamePack24/Saved/MaterialStats
+/SummerGamePack24/Saved/Logs
+/SummerGamePack24/Saved/Logs
+/SummerGamePack24/Intermediate/Build/Win64/x64/UnrealGame/Shipping
+/SummerGamePack24/Intermediate/Build
+/SummerGamePack24/Intermediate/Build
+SummerGamePack24/Binaries/Win64/SummerGamePack24-Win64-Shipping.pdb
