@@ -36,6 +36,24 @@
     <ClInclude Include="..\..\Source\SummerGamePack24\BasePawn.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\BTService_AimAtPlayer.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\BTService_AimAtPlayer.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\BTTaskNode_Shoot.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\BTTaskNode_Shoot.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\BTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\BTTask_ClearBlackboardValue.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.cpp">
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
@@ -122,6 +140,81 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\SummerGamePack24.h">
       <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerAiCharacter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerAiCharacter.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerAiController.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerAiController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerCharacter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerCharacter.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerGameMode.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerGameMode.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerPlayerController.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerPlayerController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerProjectile.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKillerProjectile.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKiller_TP_PickUpComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKiller_TP_PickUpComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\ToKiller_TP_WeaponComponent.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\ToKiller_TP_WeaponComponent.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\UpdatePatrol.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\UpdatePatrol.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <Filter Include="Source\SummerGamePack24\Ai">
+      <UniqueIdentifier>{06CF0DF3-E4A2-3325-AEFE-6FFEBE7BD502}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Ai\BTService_ChaseTimer.cpp">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Ai\BTService_ChaseTimer.h">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Ai\BTService_PlayerLocation.cpp">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Ai\BTService_PlayerLocation.h">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\Ai\BTService_PlayerLocationIfSeen.cpp">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\Ai\BTService_PlayerLocationIfSeen.h">
+      <Filter>Source\SummerGamePack24\Ai</Filter>
     </ClInclude>
     <Filter Include="Source\SummerGamePack24\Private">
       <UniqueIdentifier>{2F28D3D5-715D-336D-83AA-64C7F7DB6F94}</UniqueIdentifier>

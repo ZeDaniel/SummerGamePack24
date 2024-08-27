@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummerGamePack24ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181dd556bb59371f1118b2d9f9c812ea94844557")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54f63406df2ae899213895dab3f321dcb39a0ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummerGamePack24ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummerGamePack24ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
