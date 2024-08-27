@@ -14,7 +14,7 @@ class UInputAction;
 class UInputMappingContext;
 struct FInputActionValue;
 
-DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);
+DECLARE_LOG_CATEGORY_EXTERN(LogSafetyCharacter, Log, All);
 
 UCLASS(config=Game)
 class ASafetyCharacter : public ACharacter

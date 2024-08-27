@@ -292,6 +292,9 @@
 /I "..\Plugins\2D\Paper2D\Source"
 /I "..\Plugins\2D\Paper2D\Source\Paper2D\Classes"
 /I "..\Plugins\2D\Paper2D\Source\Paper2D\Public"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
+/I "Runtime\AIModule\Classes"
+/I "Runtime\AIModule\Public"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"

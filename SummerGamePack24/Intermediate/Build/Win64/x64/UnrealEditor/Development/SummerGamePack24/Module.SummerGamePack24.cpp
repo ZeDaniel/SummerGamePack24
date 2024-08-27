@@ -45,7 +45,7 @@
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/Private/SplineManager.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/Private/ThePunchGameMode.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/Private/ThePunchPlayerController.cpp"
-#include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/SafetyCharacter.cpp"
+#include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/SafetyGameMode.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/SafetyPlayerController.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/SafetyProjectile.cpp"
 #include "C:/Game Dev/Unreal Engine 5 Projects/SummerGamePack24/SummerGamePack24/Source/SummerGamePack24/Safety_TP_PickUpComponent.cpp"
