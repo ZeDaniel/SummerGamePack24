@@ -15,30 +15,6 @@ to avoid conflicts
 --Test that it works!
 --Repeate for next game
 
-
-lmaooo gotta fix that windowed/fullscreen thing with thepunch
--->Render settings? Resolution maybe?
-
-bug:quitting roller in level transition will reload you into roller
--->Edit game instance/quit function to take account for this
-
-Add pause and quit to actual game pack
-fix mouse focus between games (going back to hub world and pause menu)
--->Check within games too (Safety at least didn't work)
--->ToKiller SUPER breaks mouse input
----->PROBABLY best to just set manually the input mode when loading hub world gamemode
-
-add at least a little text to each portal
-
---Try packaging for other systems!
-
-Make things look nice?
-Add levels to the games?
-
-Add dev/interview mode to the hub world.
--->Second world with extra text and/or yapping? Toggle button? Question when starting game?
-
-
 Roller:
 -Update level references in the code for Roller
 -->Update exit button of pause menu to load hub world
@@ -103,6 +79,32 @@ Decoherence:
 -re-organize
 -change quit to return to hub world instead
 -add level gate and preview to hub world
+
+SummerGamePack24:
+
+Make tokiller ai not shoot so much when breaking LOS
+
+lmaooo gotta fix that windowed/fullscreen thing with thepunch
+-->Render settings? Resolution maybe?
+
+bug:quitting roller in level transition will reload you into roller
+-->Edit game instance/quit function to take account for this
+
+Add pause and quit to actual game pack
+fix mouse focus between games (going back to hub world and pause menu)
+-->Check within games too (Safety at least didn't work)
+-->ToKiller SUPER breaks mouse input
+---->PROBABLY best to just set manually the input mode when loading hub world gamemode
+
+add at least a little text to each portal
+
+--Try packaging for other systems!
+
+Make things look nice?
+Add levels to the games?
+
+Add dev/interview mode to the hub world.
+-->Second world with extra text and/or yapping? Toggle button? Question when starting game?
 
 
 Notes:
