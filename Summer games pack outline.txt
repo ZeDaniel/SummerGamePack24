@@ -130,23 +130,8 @@ For C++ code:
 +ActiveClassRedirects=(OldClassName=”TP_WeaponComponent”,NewClassName=”ToKiller_TP_WeaponComponent”)
 
 
-Cut from SGP defaultEngine on 8/27/24
 [CoreRedirects]
-+ClassRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
-+FunctionRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
-+PropertyRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
-+ObjectRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
-+ClassRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
-+FunctionRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
-+PropertyRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
-+ObjectRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
-+ClassRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
-+FunctionRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
-+PropertyRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
-+ObjectRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
-
-[CoreRedirects]
-+ClassRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
-+FunctionRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
-+PropertyRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
-+ObjectRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
++ClassRedirects=(MatchSubstring=True,OldName="/Script/Decoherence",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/Decoherence",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/Decoherence",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/Decoherence",NewName="/Script/SummerGamePack24")
