@@ -72,17 +72,17 @@ Decoherence:
 -Rename character log from the template thing in the decoherencecharacter c++
 -commit to migration branch
 -c++ files
-
 -migrate assets
 -test game in sgp
 -resave and remove redirects
+
 -re-organize
 -change quit to return to hub world instead
 -add level gate and preview to hub world
 
 SummerGamePack24:
 
-Make tokiller ai not shoot so much when breaking LOS
+Make tokiller ai not DO THAT (shoot so much when breaking LOS)
 
 lmaooo gotta fix that windowed/fullscreen thing with thepunch
 -->Render settings? Resolution maybe?
