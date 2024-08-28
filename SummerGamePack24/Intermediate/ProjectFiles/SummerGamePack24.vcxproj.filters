@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Summer games pack outline.txt" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -82,6 +83,12 @@
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\DecoherencePlayerController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceProjectile.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceProjectile.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\GravityController.cpp">
