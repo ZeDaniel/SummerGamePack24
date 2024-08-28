@@ -1,0 +1,152 @@
+Summer Games Pack Outline:
+
+Create starting hub:
+--First person hub world with teleporter gates (to the games)
+--Pause menu with a quit to desktop button
+--Ensure all files have unique names; no template names
+
+Migrate required game assets one game at a time
+--Basically port one game at a time
+--Ensure that all the games code files are prefixed with the game title
+to avoid conflicts
+--Disable legacy input
+--Add teleporter gate and description for the game (mario painting image?)
+--Include the level in the packaged build lmao
+--Test that it works!
+--Repeate for next game
+
+
+lmaooo gotta fix that windowed/fullscreen thing with thepunch
+-->Render settings? Resolution maybe?
+
+bug:quitting roller in level transition will reload you into roller
+-->Edit game instance/quit function to take account for this
+
+Add pause and quit to actual game pack
+fix mouse focus between games (going back to hub world and pause menu)
+-->Check within games too (Safety at least didn't work)
+-->ToKiller SUPER breaks mouse input
+---->PROBABLY best to just set manually the input mode when loading hub world gamemode
+
+add at least a little text to each portal
+
+--Try packaging for other systems!
+
+Make things look nice?
+Add levels to the games?
+
+Add dev/interview mode to the hub world.
+-->Second world with extra text and/or yapping? Toggle button? Question when starting game?
+
+
+Roller:
+-Update level references in the code for Roller
+-->Update exit button of pause menu to load hub world
+-->We good????
+
+Ballem:
+-Get C++ code over
+--Copy files
+--Generate visual studio files
+--Replace API names
+--Resolve conflicts
+-We good
+
+ThePunch:
+-Add portal
+-We good
+
+-->Create portal to Ballem in hub world
+
+Safety:
+--Confirm changes to safety for migration
+-->Save changes to safety into their own branch on github
+In SGP
+-->make projectile destroy things
+-->Commit basic import
+loop rifle animations
+-->Make changes to safety animations and grip point to work more like Safety
+---->Cause it only worked before with the broken skeleton
+-->Update safety quit function to go to hub world
+-->In pause menu and continue button
+improve continue button hit box
+-->Add hub world portal
+-->Re-organize files (PRAY)
+Safety teleporter reloads hub world level in pacakaged game
+-->Test all games
+
+Does pause menu reappear after trading safety for risk?
+
+ToKiller:
+Make changes to eliminate dupe names in a branch pre-migrate
+->Do any c++ files and c++ references pre-migrate as well, since that was a pain
+-->Resave and remove redirects in SGP24
+---->Do other games before adding ToKiller?
+update quit to open hub world
+darken visibility fields
+add teleporter and level preview
+
+Decoherence:
+-Do we need pickup and weapon?
+-->If not, then don't port over
+-->If yes, then change the OnPickup function name
+-override map gamemode
+-rename shit
+-->When levels are renamed, add name to gates
+-Rename character log from the template thing in the decoherencecharacter c++
+-commit to migration branch
+-c++ files
+
+-migrate assets
+-test game in sgp
+-resave and remove redirects
+-re-organize
+-change quit to return to hub world instead
+-add level gate and preview to hub world
+
+
+Notes:
+
+For C++ code:
+-Copy + paste the files, do not copy over ballem.h, or ballem build/target files only the game files
+-Delete saved and intermediate, generate project files
+-Replace API names in files
+-Create core redirects in DefaultEngine.ini
+-Migrate Blueprints (test ONE first)
+-->Check gamemode c++ file for default pawn code(maybe try removing it? otherwise update it)
+
+[CoreRedirects]
++ClassRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
+
+[CoreRedirects]
++ClassRedirects=(MatchSubstring=True,OldName="TP_PickUp",NewName="ToKiller_TP_PickUp")
++ClassRedirects=(MatchSubstring=True,OldName="TP_Weapon",NewName="ToKiller_TP_Weapon")
+
+[/Script/Engine.Engine]
++ActiveClassRedirects=(OldClassName=”TP_PickUpComponent”,NewClassName=”ToKiller_TP_PickUpComponent”)
++ActiveClassRedirects=(OldClassName=”TP_WeaponComponent”,NewClassName=”ToKiller_TP_WeaponComponent”)
+
+
+Cut from SGP defaultEngine on 8/27/24
+[CoreRedirects]
++ClassRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/Ballem",NewName="/Script/SummerGamePack24")
++ClassRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/ThePunch",NewName="/Script/SummerGamePack24")
++ClassRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/Safety",NewName="/Script/SummerGamePack24")
+
+[CoreRedirects]
++ClassRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
++FunctionRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
++PropertyRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
++ObjectRedirects=(MatchSubstring=True,OldName="/Script/ToKiller",NewName="/Script/SummerGamePack24")
