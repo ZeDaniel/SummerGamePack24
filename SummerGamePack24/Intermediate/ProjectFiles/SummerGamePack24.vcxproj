@@ -281,6 +281,30 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\BTTask_ClearBlackboardValue.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCharacter.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCloneCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCloneCharacter.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCustomGravityClone.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCustomGravityClone.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceGameMode.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceGameMode.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherencePlayerController.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherencePlayerController.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\GravityController.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\GravityController.h"/>
     <ClCompile Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
@@ -338,6 +362,14 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\SummerGamePack24.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\TimeMender.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\TimeMender.h"/>
+    <ClCompile Include="..\..\Source\SummerGamePack24\TimeSplitter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\TimeSplitter.h"/>
     <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerAiCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

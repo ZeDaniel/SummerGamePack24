@@ -54,6 +54,42 @@
     <ClInclude Include="..\..\Source\SummerGamePack24\BTTask_ClearBlackboardValue.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCharacter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCharacter.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCloneCharacter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCloneCharacter.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceCustomGravityClone.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceCustomGravityClone.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherenceGameMode.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherenceGameMode.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\DecoherencePlayerController.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\DecoherencePlayerController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\GravityController.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\GravityController.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\HeldItemDestructionField.cpp">
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
@@ -139,6 +175,18 @@
       <Filter>Source\SummerGamePack24</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGamePack24\SummerGamePack24.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\TimeMender.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\TimeMender.h">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerGamePack24\TimeSplitter.cpp">
+      <Filter>Source\SummerGamePack24</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerGamePack24\TimeSplitter.h">
       <Filter>Source\SummerGamePack24</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SummerGamePack24\ToKillerAiCharacter.cpp">
