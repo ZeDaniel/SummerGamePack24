@@ -93,17 +93,18 @@ fix mouse focus between games (going back to hub world and pause menu)
 ----->YES, actually
 bug:quitting roller in level transition will reload you into roller
 -->Edit game instance/quit function to take account for this
-
 add at least a little text to each portal
 --Show prompt for the game
 
---Try packaging for other systems!
+Add plaque section detailing scope, timelines, and takeaways/dev acoomplishments
+-->Like the evaluation/reflection doc
 
-Make things look nice?
-Add levels to the games?
+Add bonus plaque for "Keep Growing"
+-Sub-Plaques for each game, describe differences before and after
 
 Add dev/interview mode to the hub world.
--->Second world with extra text and/or yapping? Toggle button? Question when starting game?
+-->Toggle with button in middle. Tie to instance variable so they're
+still there when returning to the hub world
 
 
 Notes:
