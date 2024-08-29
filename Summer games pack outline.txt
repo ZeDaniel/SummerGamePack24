@@ -75,7 +75,6 @@ Decoherence:
 -migrate assets
 -test game in sgp
 -resave and remove redirects
-
 -re-organize
 -change quit to return to hub world instead
 -add level gate and preview to hub world
@@ -97,6 +96,7 @@ fix mouse focus between games (going back to hub world and pause menu)
 ---->PROBABLY best to just set manually the input mode when loading hub world gamemode
 
 add at least a little text to each portal
+--Show prompt for the game
 
 --Try packaging for other systems!
 
