@@ -85,20 +85,16 @@ lmaooo gotta fix that windowed/fullscreen thing with thepunch
 -->Render settings? Resolution maybe?
 widget didn't show at end of ballem?
 -->Just showed next level
-
-
 add pause and quit to summer game pack
 
-bug:quitting roller in level transition will reload you into roller
--->Edit game instance/quit function to take account for this
-
-
-
-Add pause and quit to actual game pack
 fix mouse focus between games (going back to hub world and pause menu)
 -->Check within games too (Safety at least didn't work)
 -->ToKiller SUPER breaks mouse input
 ---->PROBABLY best to just set manually the input mode when loading hub world gamemode
+----->YES, actually
+
+bug:quitting roller in level transition will reload you into roller
+-->Edit game instance/quit function to take account for this
 
 add at least a little text to each portal
 --Show prompt for the game
