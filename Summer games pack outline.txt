@@ -95,16 +95,18 @@ bug:quitting roller in level transition will reload you into roller
 -->Edit game instance/quit function to take account for this
 add at least a little text to each portal
 --Show prompt for the game
-
 Add plaque section detailing scope, timelines, and takeaways/dev acoomplishments
 -->Like the evaluation/reflection doc
-
 Add bonus plaque for "Keep Growing"
 -Sub-Plaques for each game, describe differences before and after
-
 Add dev/interview mode to the hub world.
 -->Toggle with button in middle. Tie to instance variable so they're
 still there when returning to the hub world
+
+can't press space to restart at end of roller
+-->Instead of disabling input, remove mapping context
+
+add note in welcome to state pausing will show controls
 
 
 Notes:
