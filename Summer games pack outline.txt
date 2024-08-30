@@ -102,12 +102,11 @@ Add bonus plaque for "Keep Growing"
 Add dev/interview mode to the hub world.
 -->Toggle with button in middle. Tie to instance variable so they're
 still there when returning to the hub world
-
 can't press space to restart at end of roller
 -->Instead of disabling input, remove mapping context
-
 add note in welcome to state pausing will show controls
 
+enable pause action while paused for roller
 
 Notes:
 
