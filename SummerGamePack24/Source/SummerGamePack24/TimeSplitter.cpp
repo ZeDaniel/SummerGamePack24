@@ -51,23 +51,28 @@ void ATimeSplitter::UnSplit()
 
 void ATimeSplitter::ResetSplit()
 {
-	//disable physics states before merge
-	DisableActors();
+	//Don't actually reset split if time isn't split
+	if (bTimeIsSplit)
+	{
+		//disable physics states before merge
+		DisableActors();
 
-	//Move actors to reset transform
-	MoveActorsToResetTransform();
+		//Move actors to reset transform
+		MoveActorsToResetTransform();
 
-	//Re-attach assets to the roots. Specifically because physics actors need to be reattached
-	AttachActorsToRoots();
+		//Re-attach assets to the roots. Specifically because physics actors need to be reattached
+		AttachActorsToRoots();
 
-	bTimeIsResetting = true;
+		bTimeIsResetting = true;
 
-	//Set current actor rotations
-	if (SplitActorRotationVectorCurve)
-		SetActorRotations();
+		//Set current actor rotations
+		if (SplitActorRotationVectorCurve)
+			SetActorRotations();
 
-	/* Move the new root actors by their offset via the offset timeline. Re-enables physics states when done*/
-	SplitTimelineComp->Reverse();
+		/* Move the new root actors by their offset via the offset timeline. Re-enables physics states when done*/
+		SplitTimelineComp->Reverse();
+	}
+	
 }
 
 // Called when the game starts or when spawned
